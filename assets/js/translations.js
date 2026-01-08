@@ -131,6 +131,7 @@ const translations = {
     "skill-6-desc": "Observational astronomy, data reduction, cosmological simulations, telescope operations",
     "skill-7-desc": "Flask, React, AWS",
     "skill-8-desc": "SQL, Excel, Unix/Linux, Git, Github",
+    "skill-9-desc": "English, French",
     
     // ============ CERTIFICATIONS ============
     "cert-1-title": "Hackathon Hack4Dev",
@@ -140,9 +141,12 @@ const translations = {
     "cert-3-title": "DARA Basic Training",
     "cert-3-desc": "Certificate of completion for practical training in Python programming and computer skills development.",
     "cert-4-title": "Spoken American English",
-    "cert-4-desc": "Certificate of completion from Mindluster for practicing spoken English and developing communication skills.",
+    "cert-4-desc": "Certificate of completion from Mindluster for practicing spoken English and developing American communication skills.",
     "cert-5-title": "Logical Mathematics",
     "cert-5-desc": "Certificate of completion on Coursera focused on logical mathematics.",
+    "cert-6-title": "British English Pronunciation",
+    "cert-6-desc": "MindLuster completion certificate for practicing spoken English and developing British communication skills.",
+
     
     // ============ MEMBERSHIPS ============
     "member-1-title": "Astronomical Activities and Research at the University",
@@ -204,6 +208,10 @@ const translations = {
     "date-july": "July 14 - 25, 2025",
     "date-may-2025": "May 2025",
     "date-september":"September 15 - 26, 2025",
+    "january-2026":"January 2026",
+    "december-2025":"December 2025",
+    "July-2025":"July 2025",
+    "april-2025":"April 2025",
 
     // ============ PROJECT CATEGORIES ============
     "category-data-science-deep-learning": "Data Science & Deep Learning",
@@ -224,6 +232,7 @@ const translations = {
     "category10": "Language",
     "category11":"Astronomy Training",
     "category12":"Web Development",
+    "category13": "Languages",
   },
   
   fr: {
@@ -259,6 +268,7 @@ const translations = {
     "category10": "Langue",
     "category11":"Formation en astronomie",
     "category12":"Développement Web",
+    "category13": "Langues",
     
     // ============ HOME SECTION ============
     "home-subtitle": "Bonjour, <span class='highlight'>je m'appelle</span>",
@@ -381,6 +391,7 @@ const translations = {
     "skill-6-desc": "Astronomie observationnelle, réduction de données, simulations cosmologiques, opérations de télescope",
     "skill-7-desc": "Flask, React, AWS",
     "skill-8-desc": "SQL, Excel, Unix/Linux, Git, Github",
+    "skill-9-desc": "Anglais, Français",
     
     // ============ CERTIFICATIONS ============
     "cert-1-title": "Hackathon Hack4Dev",
@@ -390,9 +401,11 @@ const translations = {
     "cert-3-title": "Formation de Base DARA",
     "cert-3-desc": "Certificat de complétion pour une formation pratique en programmation Python et développement de compétences informatiques.",
     "cert-4-title": "Anglais Américain Parlé",
-    "cert-4-desc": "Certification de complétion de Mindluster pour la pratique de l'expression orale en anglais et le développement des compétences en communication.",
+    "cert-4-desc": "Certification de complétion de Mindluster pour la pratique de l'expression orale en anglais et le développement des compétences en communication américaine.",
     "cert-5-title": "Mathématiques Logiques",
     "cert-5-desc": "Certification de complétion sur Coursera concernant les mathématiques logiques.",
+    "cert-6-title": "Prononciation anglaise britannique",
+    "cert-6-desc": "Certification de MindLuster attestant de la pratique de l’expression orale en anglais et du développement des compétences en communication britannique.",
 
     
     // ============ MEMBERSHIPS ============
@@ -454,6 +467,10 @@ const translations = {
     "date-2025-present": "2025 - Présent",
     "date-july": "14 - 25 juillet 2025",
     "date-may-2025": "Mai 2025",
-    "date-september":"15 - 26 septembre, 2025"
+    "date-september":"15 - 26 septembre, 2025",
+    "january-2026":"Janvier 2026",
+    "december-2025":"Décembre 2025",
+    "July-2025":"Juillet 2025",
+    "april-2025":"Avril 2025"
   }
 };
