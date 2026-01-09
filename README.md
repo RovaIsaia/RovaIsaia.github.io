@@ -81,11 +81,13 @@ Astrophysics & Data Science Student
 
 **Email:** isaiapix@gmail.com
 
+**Phone:** +261 37 45 151 26
+
 **LinkedIn:** linkedin.com/in/rova-isaia-andriamamy-3b92a232a
 
 **GitHub:** github.com/RovaIsaia
 
-**Portfolio:** rovaisaia.github.io/portfolio
+**Portfolio:** rovaisaia.github.io
 
 **Location:** Antananarivo, Madagascar
 
