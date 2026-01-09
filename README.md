@@ -8,7 +8,7 @@ This project is **my first experience in web development**, designed to introduc
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Libraries:** Swiper.js, MixItUp, RemixIcons  
 - **Hosting:** GitHub Pages  
-- **Form Handling:** Formspree (free plan — 50 emails/month)  
+- **Form Handling:** Formspree 
 - **Responsive:** Mobile-first design
 
 ---
@@ -23,7 +23,8 @@ text
 
 Copyright (c) 2025 Rova Isaia ANDRIAMAMY
 
-**English**
+**English version**:
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -34,6 +35,11 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+**Protection of Personal Information:**
+
+Any personal information contained in this repository is strictly confidential.
+It is prohibited to share, reproduce, publish, or distribute this information in any form without the explicit permission of the author.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -42,7 +48,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**French**
+**Version Française**:
+
 Permission est accordée, gratuitement, à toute personne obtenant une copie
 de ce logiciel et des fichiers de documentation associés (le « Logiciel »),
 de traiter dans le Logiciel sans restriction, y compris, sans limitation, les droits
@@ -52,6 +59,11 @@ le Logiciel est fourni de le faire, sous réserve des conditions suivantes :
 
 La notice de copyright ci-dessus et la présente permission doivent être
 incluses dans toutes les copies ou parties substantielles du Logiciel.
+
+**Protection des informations personnelles :**
+
+Toute information personnelle présente dans ce dépôt est strictement confidentielle.
+Il est interdit de partager, reproduire, publier ou diffuser ces informations sous quelque forme que ce soit sans l'autorisation explicite de l'auteur.
 
 LE LOGICIEL EST FOURNI « TEL QUEL », SANS GARANTIE D’AUCUNE SORTE,
 EXPRESSE OU IMPLICITE, Y COMPRIS MAIS SANS LIMITATION LES GARANTIES
