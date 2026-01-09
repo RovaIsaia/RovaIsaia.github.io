@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   console.log('TRANSLATION MANAGER');
   
-  let currentLang = localStorage.getItem('language') || 'fr';
+  let currentLang = localStorage.getItem('language') || 'en';
   
   // HELPER FUNCTION
   function applyElementTranslation(element, translation) {
