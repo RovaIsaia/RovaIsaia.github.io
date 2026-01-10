@@ -1745,32 +1745,32 @@ select {
 /*=============== GITHUB STYLE LINKS ===============*/
 .experience-github-link {
   gap: 0.5rem;
-  margin-top: 2.5rem;
+  margin-top: -1rem;
 }
 
 .experience-github-link1 {
   gap: 0.5rem;
-  margin-top: 3rem;
+  margin-top: -0.3rem;
 }
 
 .experience-github-link3 {
   gap: 0.5rem;
-  margin-top: 6rem;
+  margin-top: 1rem;
 }
 
 .experience-github-link4 {
   gap: 0.5rem;
-  margin-top: 6.3rem;
+  margin-top: 3rem;
 }
 
 .experience-github-link5 {
   gap: 0.5rem;
-  margin-top: 7.4rem;
+  margin-top: 2.5rem;
 }
 
 .experience-github-link6 {
   gap: 0.5rem;
-  margin-top: 4rem;
+  margin-top: -1rem;
 }
 
 .experience-github-link6:hover,
@@ -2131,6 +2131,67 @@ textarea.form-control {
 
 .show-switcher {
   right: 0;
+}
+
+/* =============== PROJECT TOOLS STYLES =============== */
+.project-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.tool-tag {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  background-color: hsla(var(--hue), 60%, 40%, 0.1);
+  color: var(--first-color);
+  border-radius: 2rem;
+  font-size: var(--smaller-font-size);
+  font-weight: var(--font-medium);
+  transition: all 0.3s var(--transition);
+  border: 1px solid transparent;
+  cursor: default;
+}
+
+.tool-tag:hover {
+  background-color: var(--first-color);
+  color: var(--white-color);
+  transform: translateY(-2px);
+  border-color: var(--first-color);
+  box-shadow: 0 4px 8px rgba(var(--first-color-rgb), 0.2);
+}
+
+/* Dark mode adjustments */
+.dark .tool-tag {
+  background-color: hsla(var(--hue), 60%, 40%, 0.2);
+  border-color: hsla(var(--hue), 60%, 40%, 0.3);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .project-tools {
+    gap: 0.4rem;
+    margin: 1rem 0;
+  }
+  
+  .tool-tag {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .project-tools {
+    gap: 0.3rem;
+  }
+  
+  .tool-tag {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.65rem;
+  }
 }
 
 /*=============== ANIMATIONS ===============*/

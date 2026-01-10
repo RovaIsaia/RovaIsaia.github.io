@@ -93,6 +93,8 @@ const translations = {
     
     // ============ PROJECTS ============
     "voir-github": "View on GitHub",
+    "voir-facebook": "View on Facebook",
+    "voir-google": "View on Google",
     
     // ============ PROJECTS FILTER ============
     "filter-all": "All",
@@ -215,7 +217,7 @@ const translations = {
 
     // ============ PROJECT CATEGORIES ============
     "category-data-science-deep-learning": "Data Science & Deep Learning",
-    "category-astrophysics-machine-learning": "Astrophysics & Machine Learning",
+    "category-astrophysics-data-analysis": "Astrophysics & Data Analysis",
     "category-deep-learning": "Deep Learning",
     "category-astrophysics": "Astrophysics",
     "category-price" :"Price Prediction in Madagascar – Paper",
@@ -233,9 +235,15 @@ const translations = {
     "category11":"Astronomy Training",
     "category12":"Web Development",
     "category13": "Languages",
+
+    // ============ ADD ============
+    "add0":"Data Analysis",
   },
   
   fr: {
+    // ============ ADD ============
+    "add0":"Analyse de données",
+
     // ============ NAVIGATION ============
     "nav-home": "Accueil",
     "nav-services": "Services",
@@ -251,7 +259,7 @@ const translations = {
 
     // ============ PROJEcTS CATEGORIES  ============
     "category-data-science-deep-learning": "Science des données & apprentissage profond",
-    "category-astrophysics-machine-learning": "Astrophysique & apprentissage automatique",
+    "category-astrophysics-data-analysis": "Astrophysique & Analyse de données",
     "category-deep-learning": "Apprentissage profond",
     "category-astrophysics": "Astrophysique",
     "category-price" :"Prédiction des prix à Madagascar – Article",
@@ -353,6 +361,8 @@ const translations = {
     
     // ============ PROJECTS ============
     "voir-github": "Voir sur GitHub",
+    "voir-facebook": "Voir sur Facebook",
+    "voir-google": "Voir sur Google",
     
     // ============ PROJECTS FILTER ============
     "filter-all": "Tous",
