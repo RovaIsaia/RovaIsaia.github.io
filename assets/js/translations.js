@@ -48,8 +48,8 @@ const translations = {
     "data-title-publications": "Publications",
     
     // ============ SERVICES ============
-    "service-1-title": "Data Science & AI Consulting",
-    "service-1-desc": "Machine learning model development, predictive analytics, and AI solution design for business problems.",
+    "service-1-title": "Data Science & AI Research",
+    "service-1-desc": "Machine learning research, predictive analytics, and AI solution design for business problems.",
     "service-2-title": "Data Analysis & Visualization",
     "service-2-desc": "Transforming raw data into actionable insights with clear visualizations and data interpretation.",
     "service-3-title": "Astrophysical Data Analysis",
@@ -312,8 +312,8 @@ const translations = {
     "data-title-publications": "Publications",
     
     // ============ SERVICES ============
-    "service-1-title": "Conseil en Science des Données & IA",
-    "service-1-desc": "Développement de modèles d'apprentissage automatique, analyse prédictive et conception de solutions IA pour problèmes commerciaux.",
+    "service-1-title": "Recherche en Data Science & IA",
+    "service-1-desc": "Recherche en apprentissage automatique, analyse prédictive et conception de solutions d’intelligence artificielle pour des problématiques métiers.",
     "service-2-title": "Analyse & Visualisation de Données",
     "service-2-desc": "Transformation de données brutes en insights actionnables avec visualisations claires et interprétation de données.",
     "service-3-title": "Analyse de Données Astrophysiques",
