@@ -183,7 +183,7 @@ const translations = {
     // ============ FOOTER ============
     "footer-line1": "Astrophysics & Data Science Student",
     "footer-line2": "Passionate about AI, Machine Learning, and Astronomical Research",
-    "footer-copyright": "© 2025 Rova Isaia. All rights reserved.",
+    "footer-copyright": "© 2026 Rova Isaia. All rights reserved.",
 
     // ============ STYLE SWITCHER ============
     "style-switcher-title": "Style Switcher",
@@ -451,7 +451,7 @@ const translations = {
     // ============ FOOTER ============
     "footer-line1": "Étudiant en Astrophysique & Science des Données",
     "footer-line2": "Passionné par l'IA, l'Apprentissage Automatique et la Recherche Astronomique",
-    "footer-copyright": "© 2025 Rova Isaia. Tous droits réservés.",
+    "footer-copyright": "© 2026 Rova Isaia. Tous droits réservés.",
 
     // ============ STYLE SWITCHER ============
     "style-switcher-title": "Sélecteur de Style",
