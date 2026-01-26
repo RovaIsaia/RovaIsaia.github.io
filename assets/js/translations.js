@@ -89,7 +89,7 @@ const translations = {
     "exp-4-role": "Python & Linux Training",
     "exp-4-desc": "Python programming and Bash command-line in Linux environment. Libraries: NumPy, Pandas, Matplotlib, Astropy. Daily quizzes and final project completion.",
     "exp-7-role": "Data Reduction in Astronomy and Astrophysics",
-    "exp-7-desc": "Reduction and analysis of observational data in astronomy and astrophysics, including instrumental calibration, preprocessing, astrophysical signal extraction, and statistical analysis using Python in Linux environments.",
+    "exp-7-desc": "Design of reduction and analysis pipelines for radio-interferometric data (VLBI/EVN), including instrumental calibration, phase referencing, self-calibration, imaging and deconvolution (CLEAN algorithm), spectral analysis, and astrophysical parameter extraction using Python/CASA in Linux environments.",
     
     // ============ PROJECTS ============
     "voir-github": "View on GitHub",
@@ -356,7 +356,7 @@ const translations = {
     "exp-5-role": "Travail de Terrain en Astronomie",
     "exp-5-desc": "Formation pratique en astronomie à Ileret, Kenya. Techniques d'observation pratiques et collecte de données en conditions réelles.",
     "exp-7-role": "Réduction de données en astronomie et astrophysique",
-    "exp-7-desc": "Réduction et analyse de données observationnelles en astronomie et astrophysique, incluant la calibration instrumentale, le prétraitement, l’extraction de signaux astrophysiques et l’analyse statistique à l’aide de Python, dans des environnements Linux.",
+    "exp-7-desc": "Conception de pipelines de réduction et d'analyse pour données radio-interférométriques (VLBI/EVN), incluant calibration instrumentale, référence de phase, auto-calibration, imagerie et déconvolution (CLEAN), analyse spectrale et extraction de paramètres astrophysiques via Python/CASA sous Linux.",
 
     
     // ============ PROJECTS ============
