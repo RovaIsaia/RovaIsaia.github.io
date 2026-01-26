@@ -238,11 +238,13 @@ const translations = {
 
     // ============ ADD ============
     "add0":"Data Analysis",
+    "add1":"Data Reduction",
   },
   
   fr: {
     // ============ ADD ============
-    "add0":"Analyse de données",
+    "add0":"Analyse des données",
+    "add1":"Réduction des données",
 
     // ============ NAVIGATION ============
     "nav-home": "Accueil",
