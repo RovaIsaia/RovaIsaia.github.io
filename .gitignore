@@ -1,0 +1,8 @@
+secrets.js
+.env
+*.secret.js
+*.private.js
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
