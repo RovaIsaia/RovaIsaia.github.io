@@ -14,7 +14,7 @@ This project is **my first experience in web development**, designed to introduc
 ---
 
 ### Live Portfolio
-🔗 **https://rovaisaia.github.io/**
+🔗 **https://isaiapix.github.io/**
 
 ### MIT License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -87,7 +87,7 @@ Astrophysics & Data Science Student
 
 **GitHub:** github.com/RovaIsaia
 
-**Portfolio:** rovaisaia.github.io
+**Portfolio:** isaiapix.github.io
 
 **Location:** Antananarivo, Madagascar
 
